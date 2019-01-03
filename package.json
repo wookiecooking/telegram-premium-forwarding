@@ -1,0 +1,12 @@
+{
+  "name": "telegram-premium-forwarding",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "wookiecooking <austin@datarats.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "lokijs": "^1.5.5",
+    "telegraf": "^3.25.5"
+  }
+}
